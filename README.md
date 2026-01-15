@@ -2,7 +2,7 @@
 
 <h3>This is my page!</h3>
 
-<p> I'm Francisco, Fullstack developer from Pergamino, Buenos Aires, Argentina, currently living in Pergamino, Buenos Aires, Argentina. </p>
+<p> I'm Francisco, Fullstack developer from Pergamino, Buenos Aires, Argentina. </p>
 
 <h3>Things I code with</h3>
 <p>
